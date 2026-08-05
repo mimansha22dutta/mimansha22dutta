@@ -10,29 +10,67 @@
 Architecting cloud-native platforms, automating infrastructure, and building resilient systems that power modern applications.
 </h3>
 
+<br>
+
 <p align="center">
 <a href="https://github.com/mimansha22dutta"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/></a>
 <a href="https://linkedin.com/in/mimansha-dutta"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:mimanshaedu@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
-##  ⚡ Tech Stack
+<br>
 
+## 🧭 About Me
+<br>
+I'm a Cloud & DevOps Engineer focused on designing scalable, secure, and cost-efficient infrastructure on Azure and AWS. I work across the full delivery lifecycle — from Infrastructure as Code and CI/CD pipelines to container orchestration and production observability — with an emphasis on automation and reliability over manual process.
+<br>
+Currently deepening my focus on cloud networking, Kubernetes at scale, and exploring how AI can be integrated into infrastructure and DevOps workflows to shape the next generation of automation.
+
+<br>
+<br>
+
+## 🧰 Tech Stack
+<br>
 <p align="center">
-<img src="https://skillicons.dev/icons?i=azure,aws,docker,kubernetes,terraform,git,github,linux,python,bash,fastapi,react,mysql,vscode"/>
+  <img src="https://skillicons.dev/icons?i=azure,aws,terraform,docker,kubernetes,git,github,gitlab,grafana,prometheus,bash,linux,angular,html,css,js,java,mysql" height="100"/>
 </p>
+<br>
 
-##  💼 About Me
+| Category                  | Tools                                                                                          |
+|----------------------------|--------------------------------------------------------------------------------------------------|
+| **Cloud**                  | Microsoft Azure (VNets, Load Balancer, Firewall, Bastion, Key Vault, AKS), AWS (EC2, VPC, IAM, S3, ALB) |
+| **IaC**                    | Terraform — reusable modules, remote state, plan/apply workflows                                 |
+| **CI/CD**                  | GitLab CI/CD Pipelines, Azure DevOps Pipelines                                                   |
+| **Containers**             | Docker, Kubernetes (AKS), Helm                                                                   |
+| **Security & Scanning**    | Trivy, SonarQube, NSGs, scoped IAM                                                                |
+| **Monitoring**             | Prometheus, Grafana                                                                               |
+| **Frontend Development**   | Angular, HTML, CSS, JavaScript                                                                    |
+| **Backend Development**    | Java                                                                                               |
+| **Database**                | MySQL                                                                                              |
+| **Linting & Code Quality** | TFLint, Biome, CSSLint, ESLint, Stylelint                                                        |
+| **Developer Tools**        | VS Code, Git, Postman, IntelliJ IDEA                                                              |
+| **Scripting & OS**         | Bash, Linux                                                                                        |
+| **Version Control**         | Git, GitHub, GitLab                                                                                |
 
-- ☁️ Azure & AWS
-- 🚀 Azure DevOps CI/CD
-- ⚙️ Infrastructure as Code (Terraform)
-- 🐳 Docker & Kubernetes (AKS)
-- 🐧 Linux • Bash • Python
-- 🔐 Cloud Security Best Practices
-- 📈 Monitoring & Automation
+
+<br>
+
+## 🏗️ Highlighted Work
+<br>
+
+**Project Name** — One-line outcome-focused description (e.g. "Reduced deployment time 60% by building a multi-stage Terraform + AKS CI/CD pipeline").
+🔗 [Repo link](#) · **Stack:** Terraform, AKS, Azure DevOps
+
+**Project Name** — One-line outcome-focused description.
+🔗 [Repo link](#) · **Stack:** Docker, Kubernetes, Python
+
+**Project Name** — One-line outcome-focused description.
+🔗 [Repo link](#) · **Stack:** AWS, Bash, GitHub Actions
+
+<br>
 
 ## 📊 GitHub Analytics
+<br>
 
 <p align="center">
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=mimansha22dutta&show_icons=true&theme=tokyonight"/>
@@ -43,19 +81,33 @@ Architecting cloud-native platforms, automating infrastructure, and building res
 <img src="https://streak-stats.demolab.com?user=mimansha22dutta&theme=tokyonight"/>
 </p>
 
-## 📈 Contribution Graph
+<br>
 
+## 📈 Contribution Graph
+<br>
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=mimansha22dutta&theme=tokyo-night"/>
 </p>
 
-## 📫 Let's Connect
+<br>
 
-💼 Open to collaborating on Cloud, DevOps, and Infrastructure projects.
-📧 Reach me via LinkedIn or email.
+
+## 📫 Let's Connect
+<br>
+
+💼 Open to collaborating on Cloud, DevOps, Platform Engineering, and Infrastructure Automation projects.
+
+📧 Reach me via [LinkedIn](https://linkedin.com/in/mimansha-dutta) or [Email](mailto:mimanshaedu@gmail.com).
+
+🚀 Always interested in discussing AI, cloud architecture, scalable systems, automation, DevOps best practices, and emerging technologies.
+
+🤝 Open to collaborating on open-source projects, sharing knowledge, and building reliable cloud-native solutions together.
+
+<br>
+<br>
 
 ## 💭 Philosophy
-
+<br>
 > *"Technology should remove complexity, not create it. Build systems that people can trust."*
 
 <p align="center">
