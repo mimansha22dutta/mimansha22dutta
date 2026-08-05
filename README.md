@@ -7,30 +7,32 @@
 </p>
 
 <h3 align="center">
-Building scalable cloud infrastructure, automating deployments, and delivering reliable applications through modern DevOps practices.
+Architecting cloud-native platforms, automating infrastructure, and building resilient systems that power modern applications.
 </h3>
 
 <p align="center">
 <a href="https://github.com/mimansha22dutta"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/></a>
-<a href="https://linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:YOUR_EMAIL@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://linkedin.com/in/mimansha-dutta"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:mimanshaedu@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
-## âš¡ Tech Stack
+##  ⚡ Tech Stack
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=azure,aws,docker,kubernetes,terraform,git,github,linux,python,bash,fastapi,react,mysql,vscode"/>
 </p>
 
-## ðŸ’¼ About Me
+##  💼 About Me
 
-- â˜ï¸ Azure & AWS
-- ðŸš€ Azure DevOps CI/CD
-- âš™ï¸ Terraform
-- ðŸ³ Docker & Kubernetes (AKS)
-- ðŸ§ Linux â€¢ Bash â€¢ Python
+- ☁️ Azure & AWS
+- 🚀 Azure DevOps CI/CD
+- ⚙️ Infrastructure as Code (Terraform)
+- 🐳 Docker & Kubernetes (AKS)
+- 🐧 Linux • Bash • Python
+- 🔐 Cloud Security Best Practices
+- 📈 Monitoring & Automation
 
-## ðŸ“Š GitHub Analytics
+## 📊 GitHub Analytics
 
 <p align="center">
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=mimansha22dutta&show_icons=true&theme=tokyonight"/>
@@ -41,15 +43,20 @@ Building scalable cloud infrastructure, automating deployments, and delivering r
 <img src="https://streak-stats.demolab.com?user=mimansha22dutta&theme=tokyonight"/>
 </p>
 
-## ðŸ“ˆ Contribution Graph
+## 📈 Contribution Graph
 
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=mimansha22dutta&theme=tokyo-night"/>
 </p>
 
-## ðŸ’­ Philosophy
+## 📫 Let's Connect
 
-> *"Automate repetitive work. Build resilient systems. Deliver with confidence."*
+💼 Open to collaborating on Cloud, DevOps, and Infrastructure projects.
+📧 Reach me via LinkedIn or email.
+
+## 💭 Philosophy
+
+> *"Technology should remove complexity, not create it. Build systems that people can trust."*
 
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=mimansha22dutta&style=for-the-badge&color=0078D4"/>
