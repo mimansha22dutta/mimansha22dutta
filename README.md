@@ -49,7 +49,7 @@ Currently deepening my focus on cloud networking, Kubernetes at scale, and explo
 | **Database**                | MySQL                                                                                              |
 | **Linting & Code Quality** | TFLint, Biome, CSSLint, ESLint, Stylelint                                                        |
 | **Developer Tools**        | VS Code, Git, Postman, IntelliJ IDEA                                                              |
-| **Scripting & OS**         | Bash, Linux                                                                                        |
+| **Operating System**         | Linux, Windows                                                                                       |
 | **Version Control**         | Git, GitHub, GitLab                                                                                |
 
 <br>
@@ -67,7 +67,9 @@ Currently deepening my focus on cloud networking, Kubernetes at scale, and explo
 
 <br>
 
-<img src="https://cdn.simpleicons.org/gmail/EA4335" width="18" height="18"/> Email: mimanshaedu@gmail.com  ·  <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="18" height="18"/> LinkedIn: linkedin.com/in/mimansha-dutta  ·  <img src="https://cdn.simpleicons.org/github/ffffff" width="18" height="18"/> GitHub: github.com/mimansha22dutta
+| | | |
+|:---:|:---:|:---:|
+| <img src="https://cdn.simpleicons.org/gmail/EA4335" width="18" height="18"/> **Email:** [mimanshaedu@gmail.com](mailto:mimanshaedu@gmail.com) | <img src="https://img.icons8.com/color/48/linkedin.png" width="18" height="18"/> **LinkedIn:** [mimansha-dutta](https://www.linkedin.com/in/mimansha-dutta/) | <img src="https://cdn.simpleicons.org/github/ffffff" width="18" height="18"/> **GitHub:** [mimansha22dutta](https://github.com/mimansha22dutta) |
 
 <br>
 
