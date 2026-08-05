@@ -52,66 +52,32 @@ Currently deepening my focus on cloud networking, Kubernetes at scale, and explo
 | **Scripting & OS**         | Bash, Linux                                                                                        |
 | **Version Control**         | Git, GitHub, GitLab                                                                                |
 
-
-<br>
-
-## 🏗️ Highlighted Work
-<br>
-
-**Project Name** — One-line outcome-focused description (e.g. "Reduced deployment time 60% by building a multi-stage Terraform + AKS CI/CD pipeline").
-🔗 [Repo link](#) · **Stack:** Terraform, AKS, Azure DevOps
-
-**Project Name** — One-line outcome-focused description.
-🔗 [Repo link](#) · **Stack:** Docker, Kubernetes, Python
-
-**Project Name** — One-line outcome-focused description.
-🔗 [Repo link](#) · **Stack:** AWS, Bash, GitHub Actions
-
-<br>
-
-## 📊 GitHub Analytics
-<br>
-
-<p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=mimansha22dutta&show_icons=true&theme=tokyonight"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mimansha22dutta&layout=compact&theme=tokyonight"/>
-</p>
-
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=mimansha22dutta&theme=tokyonight"/>
-</p>
-
-<br>
-
-## 📈 Contribution Graph
-<br>
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mimansha22dutta&theme=tokyo-night"/>
-</p>
-
 <br>
 
 
 ## 📫 Let's Connect
-<br>
-
-💼 Open to collaborating on Cloud, DevOps, Platform Engineering, and Infrastructure Automation projects.
-
-📧 Reach me via [LinkedIn](https://linkedin.com/in/mimansha-dutta) or [Email](mailto:mimanshaedu@gmail.com).
-
-🚀 Always interested in discussing AI, cloud architecture, scalable systems, automation, DevOps best practices, and emerging technologies.
-
-🤝 Open to collaborating on open-source projects, sharing knowledge, and building reliable cloud-native solutions together.
 
 <br>
+
+💼 Open to opportunities, technical collaborations, and engineering discussions across Cloud, DevOps, Platform Engineering, and AI.
+
+💬 Always interested in exchanging ideas on scalable systems, cloud-native architectures, infrastructure automation, and modern software delivery.
+
+📧 Feel free to connect if you'd like to collaborate, share knowledge, or discuss engineering challenges.
+
+<br>
+
+<img src="https://cdn.simpleicons.org/gmail/EA4335" width="18" height="18"/> Email: mimanshaedu@gmail.com  ·  <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="18" height="18"/> LinkedIn: linkedin.com/in/mimansha-dutta  ·  <img src="https://cdn.simpleicons.org/github/ffffff" width="18" height="18"/> GitHub: github.com/mimansha22dutta
+
 <br>
 
 ## 💭 Philosophy
 <br>
-> *"Technology should remove complexity, not create it. Build systems that people can trust."*
+"Technology should remove complexity, not create it. Build systems that people can trust."
+<br>
+<br>
 
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=mimansha22dutta&style=for-the-badge&color=0078D4"/>
 </p>
-
 <img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=gradient"/>
