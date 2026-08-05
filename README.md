@@ -22,9 +22,8 @@ Architecting cloud-native platforms, automating infrastructure, and building res
 
 ## 🧭 About Me
 <br>
-I'm a Cloud & DevOps Engineer focused on designing scalable, secure, and cost-efficient infrastructure on Azure and AWS. I work across the full delivery lifecycle — from Infrastructure as Code and CI/CD pipelines to container orchestration and production observability — with an emphasis on automation and reliability over manual process.
-<br>
-Currently deepening my focus on cloud networking, Kubernetes at scale, and exploring how AI can be integrated into infrastructure and DevOps workflows to shape the next generation of automation.
+<p>I'm a Cloud & DevOps Engineer focused on designing scalable, secure, and cost-efficient infrastructure on Azure and AWS. I work across the full delivery lifecycle — from Infrastructure as Code and CI/CD pipelines to container orchestration and production observability — with an emphasis on automation and reliability over manual process.</p>
+<p>Currently deepening my focus on cloud networking, Kubernetes at scale, and exploring how AI can be integrated into infrastructure and DevOps workflows to shape the next generation of automation.</p>
 
 <br>
 <br>
@@ -54,6 +53,61 @@ Currently deepening my focus on cloud networking, Kubernetes at scale, and explo
 
 <br>
 
+## 💼 Professional Experience
+
+<table>
+<tr>
+<td width="12" align="center" valign="top">
+  <br>
+  <img src="https://img.shields.io/badge/-●-0078D4?style=flat-square" alt="" />
+  <br><br><br><br>
+  <sub></sub><br><sub></sub><br><sub></sub><br><sub></sub><br><sub></sub><br><sub></sub><br><sub></sub><br><sub></sub>
+</td>
+<td width="900">
+
+**Motherson Technology Services Limited**
+<br>
+<sub>Noida, India · July 2025 – Present</sub>
+
+Own infrastructure delivery across the Azure environment — from network design to production deployment. Build and maintain reusable Terraform modules for provisioning cloud infrastructure, and design Azure DevOps YAML pipelines that drive CI/CD for containerized and VM-based workloads. Manage self-hosted Azure DevOps agents and troubleshoot production deployment failures to keep release cycles reliable. Configure enterprise-grade Azure networking (VNets, NSGs, Load Balancers, Azure Firewall, Bastion, Private DNS, Hub & Spoke).
+
+<img src="https://img.shields.io/badge/Azure-0089D6?style=flat-square&logo=microsoftazure&logoColor=white" height="20"/>
+<img src="https://img.shields.io/badge/Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white" height="20"/>
+<img src="https://img.shields.io/badge/Azure%20DevOps-0078D7?style=flat-square&logo=azuredevops&logoColor=white" height="20"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" height="20"/>
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" height="20"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" height="20"/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" height="20"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" height="20"/>
+
+</td>
+</tr>
+
+<tr>
+<td width="12" align="center" valign="top">
+  <img src="https://img.shields.io/badge/-●-6E7681?style=flat-square" alt="" />
+</td>
+<td width="900">
+
+**DevOps Insiders**
+<br>
+<sub>Remote · July 2024 – June 2025</sub>
+
+Built foundational, hands-on DevOps practice by shipping projects end-to-end — from development through deployment. Implemented CI/CD pipelines in Azure DevOps, containerized applications with Docker, and deployed workloads to Kubernetes. Provisioned cloud infrastructure using Terraform and worked directly with Azure services, while practicing structured Git branching workflows. Configured Nginx as a reverse proxy to automate recurring deployment tasks, building a working foundation in Infrastructure as Code.
+
+<img src="https://img.shields.io/badge/Azure-0089D6?style=flat-square&logo=microsoftazure&logoColor=white" height="20"/>
+<img src="https://img.shields.io/badge/Azure%20DevOps-0078D7?style=flat-square&logo=azuredevops&logoColor=white" height="20"/>
+<img src="https://img.shields.io/badge/Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white" height="20"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" height="20"/>
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" height="20"/>
+<img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white" height="20"/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" height="20"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" height="20"/>
+
+</td>
+</tr>
+</table>
+
 
 ## 📫 Let's Connect
 
@@ -74,10 +128,8 @@ Currently deepening my focus on cloud networking, Kubernetes at scale, and explo
 <br>
 
 ## 💭 Philosophy
-<br>
-"Technology should remove complexity, not create it. Build systems that people can trust."
-<br>
-<br>
+<br> <p align="center"> <i>"Technology should remove complexity, not create it. Build systems that people can trust."</i> </p> <br>
+
 
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=mimansha22dutta&style=for-the-badge&color=0078D4"/>
