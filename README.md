@@ -44,7 +44,7 @@ Architecting cloud-native platforms, automating infrastructure, and building res
 | **Security & Scanning**    | Trivy, SonarQube, NSGs, scoped IAM                                                                |
 | **Monitoring**             | Prometheus, Grafana                                                                               |
 | **Frontend Development**   | Angular, HTML, CSS, JavaScript                                                                    |
-| **Backend Development**    | Java                                                                                               |
+| **Programming Language**    | Java                                                                                               |
 | **Database**                | MySQL                                                                                              |
 | **Linting & Code Quality** | TFLint, Biome, CSSLint, ESLint, Stylelint                                                        |
 | **Developer Tools**        | VS Code, Git, Postman, IntelliJ IDEA                                                              |
